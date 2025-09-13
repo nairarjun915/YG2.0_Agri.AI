@@ -1,0 +1,13 @@
+farmer-assistant-app/
+  ├── backend/ (Flask APIs)
+  │     ├── app.py
+  │     ├── models/
+  │     └── requirements.txt
+  ├── mobile-app/ (React Native)
+  │     ├── App.js
+  │     ├── screens/
+  │     │     ├── ChatbotScreen.js
+  │     │     ├── WeatherScreen.js
+  │     │     ├── MarketScreen.js
+  │     ├── components/
+  │     └── package.json
